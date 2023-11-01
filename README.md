@@ -14,3 +14,7 @@ AWS Glue is the fully managed, serverless ETL service
 
 ![image](https://github.com/luiscoco/AWS_Glue/assets/32194879/74f26f06-441c-4745-aea2-e44bae9bf3d4)
 
+![image](https://github.com/luiscoco/AWS_Glue/assets/32194879/7f8aac9e-7719-4899-807d-41e0806e0cb3)
+
+![image](https://github.com/luiscoco/AWS_Glue/assets/32194879/9014d3b0-f18c-4b24-ba6d-ef61d5c37bfd)
+
